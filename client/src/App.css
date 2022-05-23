@@ -1,0 +1,50 @@
+.App{
+  padding: 20px;
+}
+.flex{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+.box{
+  border: 1px solid black;
+  width: 40%;
+  text-align: center; 
+}
+header{
+  padding: 0px 60px;  
+}
+table{
+  
+  padding: 4px 8px;
+}
+th{
+  border: 1px solid black;
+  padding: 4px 8px;
+  font-size: larger;
+}
+td{
+  padding: 10px 20px;
+  border: 1px solid black;
+  font-size: larger;
+}
+.error{
+  color: red;
+}
+#submitbtn{
+  background-color: cornflowerblue;
+  color: white;
+  padding: .25em .5em;
+  font-size: large;
+  margin-bottom: 20px;
+}
+#adoptbtn{
+  background-color: red;
+  color: white;
+  padding: .25em .5em;
+  font-size: large;  
+}
+input{
+  text-align: center;
+}
